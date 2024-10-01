@@ -1,6 +1,8 @@
 # language-learning-assistant
-objectv:Develope an interactive language learning tool that convert text to audio 
-Helping users hear the correct pronounciation to improve their listining language
+objectv:
+1-Develope an interactive language learning tool that convert text to audio 
+2-Helping users hear the correct pronounciation to improve their listining language
+
 code: Library Imports:
 gradio: This library is used to create a user interface (UI) for your text-to-speech (TTS) application.
 pydub: This library helps you manipulate audio files in Python. It's used for converting MP3 to WAV format in this case.
@@ -15,7 +17,19 @@ If the text is empty, it returns a message prompting the user to enter some text
  Text-to-Speech Conversion:
 Creates a gTTS object using the provided text, language, and speed.
 Saves the generated audio as an MP3 file named "temp_audio.mp3".
-4. Audio Format Conversion (Optional)
+Audio Format Conversion (Optional)
 
 vidio:
 https://drive.google.com/drive/folders/1su1jC1CBL64AlhSS0gDZrbzUp7_fiilB?usp=sharing
+
+hugging face:
+https://huggingface.co/spaces/AlaaAlhawiti/language_learningAssistant
+
+slides:
+[final project slides.pptx](https://github.com/user-attachments/files/17202629/final.project.slides.pptx)
+
+
+
+
+slides:
+
