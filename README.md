@@ -29,7 +29,3 @@ slides:
 [final project slides.pptx](https://github.com/user-attachments/files/17202629/final.project.slides.pptx)
 
 
-
-
-slides:
-
